@@ -33,4 +33,5 @@ Revenue by Segment (bar chart)
 Segment distribution overview
 RFM heatmap
 Customer segment treemap
+## dashboard preview
 <img width="2385" height="1514" alt="Screenshot 2026-05-03 at 20 16 59" src="https://github.com/user-attachments/assets/961003ab-27c4-401a-afdc-2dc263140f40" />
